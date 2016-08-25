@@ -1,0 +1,170 @@
+{
+  y2controlcenter.Y2controlcenter = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/y2controlcenter.Y2controlcenter.xpm";
+  };
+  cxsetup.Cxsetup = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/cxsetup.Cxsetup.xpm";
+  };
+  "nvidia-settings.Nvidia-settings" = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/nvidia-settings.Nvidia-settings.xpm";
+  };
+  soffice.Soffice = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/soffice.Soffice.xpm";
+  };
+  firefox.Firefox = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/firefox.Firefox.xpm";
+  };
+  "gimp-2.6.Gimp-2.6" = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/gimp-2.6.Gimp-2.6.xpm";
+  };
+  xterm.XTerm = {
+    NoAppIcon = Yes;
+    AlwaysUserIcon = Yes;
+    Icon = BulletHole.xpm;
+    FullMaximize = Yes;
+  };
+  evolution.Evolution = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/evolution.Evolution.xpm";
+  };
+  Addons.Firefox = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/Addons.Firefox.xpm";
+  };
+  cxwait.Cxwait = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/cxwait.Cxwait.xpm";
+  };
+  "animation-play.Animation-play" = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/animation-play.Animation-play.xpm";
+  };
+  skype.Skype = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/skype.Skype.xpm";
+  };
+  "virt-viewer.Virt-viewer" = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/virt-viewer.Virt-viewer.xpm";
+  };
+  "bluetooth-wizard.Bluetooth-wizard" = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/bluetooth-wizard.Bluetooth-wizard.xpm";
+  };
+  Navigator.Firefox = {
+    NoTitlebar = No;
+  };
+  Dialog.Firefox = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/Dialog.Firefox.xpm";
+  };
+  Themefontsizechanger.Firefox = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/Themefontsizechanger.Firefox.xpm";
+  };
+  eog.Eog = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/eog.Eog.xpm";
+  };
+  acroread.Acroread = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/acroread.Acroread.xpm";
+  };
+  k3b.K3b = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/k3b.K3b.xpm";
+  };
+  "gnome-screenshot.Gnome-screenshot" = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/gnome-screenshot.Gnome-screenshot.xpm";
+  };
+  YaST2.YaST2 = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/YaST2.YaST2.xpm";
+  };
+  "kompozer-bin.Kompozer-bin" = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/kompozer-bin.Kompozer-bin.xpm";
+  };
+  cxrun.Cxrun = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/cxrun.Cxrun.xpm";
+  };
+  SUSEgreeter.SUSEgreeter = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/SUSEgreeter.SUSEgreeter.xpm";
+  };
+  inkscape.Inkscape = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/inkscape.Inkscape.xpm";
+  };
+  khelpcenter.Khelpcenter = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/khelpcenter.Khelpcenter.xpm";
+  };
+  "firefox-bin.Firefox-bin" = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/firefox-bin.Firefox-bin.xpm";
+  };
+  xload.XLoad = {
+    Unfocusable = Yes;
+    NoTitlebar = Yes;
+    NoBorder = Yes;
+    NoResizebar = Yes;
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/xload.XLoad.xpm";
+    KeepOnBottom = Yes;
+    Omnipresent = Yes;
+  };
+  evince.Evince = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/evince.Evince.xpm";
+  };
+  screenshot.Screenshot = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/screenshot.Screenshot.xpm";
+  };
+  gedit.Gedit = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/gedit.Gedit.xpm";
+  };
+  groupLeader.WPrefs = {
+    Icon = "/usr/lib/GNUstep/Applications/WPrefs.app/WPrefs.tiff";
+  };
+  cxupdatecheck.Cxupdatecheck = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/cxupdatecheck.Cxupdatecheck.xpm";
+  };
+  wineboot.exe.Wine = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/wineboot.exe.Wine.xpm";
+  };
+  "bluetooth-properties.Bluetooth-properties" = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/bluetooth-properties.Bluetooth-properties.xpm";
+  };
+  winecfg.exe.Wine = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/winecfg.exe.Wine.xpm";
+  };
+  systemsettings.Systemsettings = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/systemsettings.Systemsettings.xpm";
+  };
+  Pidgin.Pidgin = {
+    AlwaysUserIcon = Yes;
+    Icon = Bird.xpm;
+  };
+  "virt-manager.Virt-manager" = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/virt-manager.Virt-manager.xpm";
+    StartWorkspace = "Workspace 3";
+  };
+  "file-roller.File-roller" = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/file-roller.File-roller.xpm";
+  };
+  gvim.Gvim = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/gvim.Gvim.xpm";
+  };
+  gwenview.Gwenview = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/gwenview.Gwenview.xpm";
+  };
+  "Qt-subapplication.VirtualBox" = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/Qt-subapplication.VirtualBox.xpm";
+  };
+  Plasma.Plasma = {
+    SharedAppIcon = No;
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/Plasma.Plasma.xpm";
+  };
+  cxmessage.Cxmessage = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/cxmessage.Cxmessage.xpm";
+  };
+  gok.Gok = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/gok.Gok.xpm";
+  };
+  nautilus.Nautilus = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/nautilus.Nautilus.xpm";
+  };
+  regedit.exe.Wine = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/regedit.exe.Wine.xpm";
+  };
+  kcmshell4.Kcmshell4 = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/kcmshell4.Kcmshell4.xpm";
+  };
+  "gnome-font-viewer.Gnome-font-viewer" = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/gnome-font-viewer.Gnome-font-viewer.xpm";
+  };
+  dia.Dia = {
+    Icon = "/home/wkennedy/GNUstep/Library/WindowMaker/CachedPixmaps/dia.Dia.xpm";
+  };
+}

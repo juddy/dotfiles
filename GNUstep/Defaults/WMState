@@ -1,0 +1,95 @@
+{
+  Dock = {
+    Applications = (
+      {
+        Forced = No;
+        Name = Logo.WMDock;
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Lock = No;
+        Position = "0,0";
+        Command = "-";
+      },
+      {
+        Forced = No;
+        Name = xterm.XTerm;
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Lock = No;
+        Position = "0,1";
+        Command = xterm;
+      },
+      {
+        Forced = No;
+        Name = groupLeader.WPrefs;
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Lock = Yes;
+        Position = "0,2";
+        Command = "/usr/lib/GNUstep/Applications/WPrefs.app/WPrefs";
+      }
+    );
+    Applications768 = (
+      {
+        Forced = No;
+        Name = Logo.WMDock;
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Lock = No;
+        Position = "0,0";
+        Command = "-";
+      },
+      {
+        Forced = No;
+        Name = xterm.XTerm;
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Lock = No;
+        Position = "0,1";
+        Command = xterm;
+      },
+      {
+        Forced = No;
+        Name = groupLeader.WPrefs;
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Lock = Yes;
+        Position = "0,2";
+        Command = "/usr/lib/GNUstep/Applications/WPrefs.app/WPrefs";
+      }
+    );
+    Position = "-64,0";
+    Lowered = No;
+  };
+  Clip = {
+    Forced = No;
+    Name = Logo.WMClip;
+    BuggyApplication = No;
+    AutoLaunch = No;
+    Lock = No;
+    Position = "0,0";
+    Command = "-";
+  };
+  Workspaces = (
+    {
+      Clip = {
+        AutoRaiseLower = No;
+        Applications = ();
+        AutoCollapse = No;
+        Collapsed = No;
+        AutoAttractIcons = No;
+        Lowered = Yes;
+      };
+      Name = Main;
+    },
+    {
+      Name = "Workspace 2";
+    },
+    {
+      Name = "Workspace 3";
+    },
+    {
+      Name = "Workspace 4";
+    }
+  );
+}
