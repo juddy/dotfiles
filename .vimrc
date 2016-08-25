@@ -1,29 +1,32 @@
-" ~/.vimrc (configuration file for vim only)
-" skeletons
-function! SKEL_spec()
-	0r /usr/share/vim/current/skeletons/skeleton.spec
-	language time en_US
-	let login = system('whoami')
-	if v:shell_error
-	   let login = 'unknown'
-	else
-	   let newline = stridx(login, "\n")
-	   if newline != -1
-		let login = strpart(login, 0, newline)
-	   endif
-	endif
-	let hostname = system('hostname -f')
-	if v:shell_error
-	    let hostname = 'localhost'
-	else
-	    let newline = stridx(hostname, "\n")
-	    if newline != -1
-		let hostname = strpart(hostname, 0, newline)
-	    endif
-	endif
-	exe "%s/specRPM_CREATION_DATE/" . strftime("%a\ %b\ %d\ %Y") . "/ge"
-	exe "%s/specRPM_CREATION_AUTHOR_MAIL/" . login . "@" . hostname . "/ge"
-	exe "%s/specRPM_CREATION_NAME/" . expand("%:t:r") . "/ge"
-endfunction
-autocmd BufNewFile	*.spec	call SKEL_spec()
-" ~/.vimrc ends here
+syntax on
+set encoding=utf-8
+
+execute pathogen#infect()
+
+filetype plugin indent on
+
+set laststatus=2
+
+let g:airline_powerline_fonts = 1
+let g:airline#extensions#tabline#enabled = 1
+
+" air-line
+let g:airline_powerline_fonts = 1
+
+if !exists('g:airline_symbols')
+let g:airline_symbols = {}
+endif
+
+" unicode symbols
+let g:airline_left_sep = '»'
+let g:airline_left_sep = '▶'
+let g:airline_right_sep = '«'
+let g:airline_right_sep = '◀'
+let g:airline_symbols.linenr = '␊'
+let g:airline_symbols.linenr = '␤'
+let g:airline_symbols.linenr = '¶'
+let g:airline_symbols.branch = '⎇'
+let g:airline_symbols.paste = 'ρ'
+let g:airline_symbols.paste = 'Þ'
+let g:airline_symbols.paste = '∥'
+let g:airline_symbols.whitespace = 'Ξ'
