@@ -1,0 +1,87 @@
+{
+  Dock = {
+    AutoRaiseLower = No;
+    Applications768 = (
+      {
+        Forced = No;
+        Name = Logo.WMDock;
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,0";
+        Lock = Yes;
+        Command = "/usr/local/bin/WPrefs";
+      },
+      {
+        Forced = No;
+        Name = xterm.XTerm;
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,1";
+        Lock = No;
+        Command = xterm;
+      }
+    );
+    Applications = (
+      {
+        Forced = No;
+        Name = Logo.WMDock;
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,0";
+        Lock = Yes;
+        Command = "/usr/local/bin/WPrefs";
+      },
+      {
+        Forced = No;
+        Name = xterm.XTerm;
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Position = "0,1";
+        Lock = No;
+        Command = xterm;
+      }
+    );
+    Lowered = No;
+    Position = "-64,0";
+  };
+  Clip = {
+    Forced = No;
+    Name = Logo.WMClip;
+    DropCommand = "wmsetbg -u -t %d";
+    BuggyApplication = No;
+    AutoLaunch = No;
+    Position = "0,0";
+    Lock = No;
+    Command = "-";
+  };
+  Applications = (
+    {
+      Name = xconsole.XConsole;
+      Shaded = No;
+      Miniaturized = Yes;
+      Command = "xconsole -geometry 480x130-0-0 -daemon -notify -verbose -fn fixed -exitOnFail";
+      Geometry = "480x130+882+604";
+      Hidden = No;
+      Workspace = Main;
+      ShortcutMask = 0;
+    }
+  );
+  Menus = {
+    "\\Window Maker" = ("14,317");
+  };
+  Drawers = ();
+  Workspaces = (
+    {
+      Clip = {
+        AutoRaiseLower = No;
+        AutoCollapse = No;
+        Applications = ();
+        Collapsed = No;
+        AutoAttractIcons = No;
+        Lowered = Yes;
+      };
+      Name = Main;
+    }
+  );
+  Workspace = Main;
+}

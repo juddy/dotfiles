@@ -1,0 +1,33 @@
+{
+  FrameBorderColor = "#000000";
+  FTitleColor = "#010101";
+  MenuTitleBack = (mdgradient, "#000000", "#706b59", "#9d967d");
+  MenuDisabledColor = "#3a372e";
+  IconTitleBack = "#000000";
+  FTitleBack = (mdgradient, "#000000", "#706b59", "#9d967d");
+  ClipTitleFont = "DejaVu Sans:slant=0:weight=200:width=87:pixelsize=10";
+  ClipTitleColor = "#000000";
+  FrameFocusedBorderColor = "#000000";
+  IconTitleFont = "DejaVu Sans:slant=0:weight=80:width=87:pixelsize=9";
+  HighlightColor = "#ffffff";
+  WindowTitleFont = "DejaVu Sans:slant=0:weight=80:width=87:pixelsize=12";
+  MenuTextBack = (solid, "#948d76");
+  LargeDisplayFont = "DejaVu Sans:slant=110:weight=200:width=87:pixelsize=36";
+  CClipTitleColor = "#616161";
+  MenuStyle = flat;
+  ResizebarBack = (solid, "#938b75");
+  IconTitleColor = "#ffffff";
+  TitleJustify = left;
+  MenuTextColor = "#000000";
+  PTitleBack = (solid, gray40);
+  IconBack = (mdgradient, "#000000", "#706b59", "#9d967d");
+  MenuTitleColor = "#000000";
+  UTitleColor = "#2f2c25";
+  MenuTitleFont = "DejaVu Sans:slant=0:weight=80:width=87:pixelsize=12";
+  UTitleBack = (solid, "#948d76");
+  PTitleColor = "#ffffff";
+  MenuTextFont = "DejaVu Sans:slant=0:weight=80:width=87:pixelsize=12";
+  WorkspaceBack = (solid, "#2f2c25");
+  FrameSelectedBorderColor = "#ffffff";
+  HighlightTextColor = "#000000";
+}
