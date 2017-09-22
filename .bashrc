@@ -1,4 +1,4 @@
-#setterm -blength 0
+setterm -blength 0
 
 #alias vi='gvim'
 
@@ -115,4 +115,3 @@ else \
 fi)'
 
 #export PS1="$ICyan$Time12h$Color_Off $ "
-
