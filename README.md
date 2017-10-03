@@ -22,3 +22,7 @@ powerline, modules
 ----
 ##.vimrc
 syn, colors, tab settings, etc.
+
+## cursor
+
+xsetroot -cursor cursor/circle_cursor2017.xbm cursor/circle_cursor2017-mask.xbm
