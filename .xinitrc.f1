@@ -1,0 +1,6 @@
+xmodmap .Xmodmap
+xset -b
+xterm&
+dzen&
+xmobar&
+xmonad
