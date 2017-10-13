@@ -1,0 +1,148 @@
+{
+  Dock = {
+    AutoRaiseLower = No;
+    Applications = (
+      {
+        Forced = No;
+        Name = Logo.WMDock;
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Lock = No;
+        Position = "0,0";
+        Command = "/usr/bin/WPrefs";
+      },
+      {
+        Forced = No;
+        Name = "x-terminal-emulator.XTerm";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Lock = No;
+        Position = "0,1";
+        Command = "x-terminal-emulator";
+      },
+      {
+        Forced = No;
+        Name = "firefox-esr.Firefox-esr";
+        BuggyApplication = No;
+        DropCommand = "firefox-esr %d";
+        AutoLaunch = No;
+        Lock = No;
+        Position = "0,2";
+        PasteCommand = "firefox-esr %s";
+        Command = "firefox-esr";
+      },
+      {
+        Forced = No;
+        Name = gdigi.Gdigi;
+        BuggyApplication = No;
+        DropCommand = "gdigi %d";
+        AutoLaunch = No;
+        Lock = No;
+        Position = "0,3";
+        PasteCommand = "gdigi %s";
+        Command = gdigi;
+      },
+      {
+        Forced = No;
+        Name = gpartedbin.Gpartedbin;
+        BuggyApplication = No;
+        DropCommand = "gpartedbin %d";
+        AutoLaunch = No;
+        Lock = No;
+        Position = "0,4";
+        PasteCommand = "gpartedbin %s";
+        Command = gpartedbin;
+      }
+    );
+    Position = "-64,0";
+    Lowered = No;
+    Applications900 = (
+      {
+        Forced = No;
+        Name = Logo.WMDock;
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Lock = No;
+        Position = "0,0";
+        Command = "/usr/bin/WPrefs";
+      },
+      {
+        Forced = No;
+        Name = "x-terminal-emulator.XTerm";
+        BuggyApplication = No;
+        AutoLaunch = No;
+        Lock = No;
+        Position = "0,1";
+        Command = "x-terminal-emulator";
+      },
+      {
+        Forced = No;
+        Name = "firefox-esr.Firefox-esr";
+        BuggyApplication = No;
+        DropCommand = "firefox-esr %d";
+        AutoLaunch = No;
+        Lock = No;
+        Position = "0,2";
+        PasteCommand = "firefox-esr %s";
+        Command = "firefox-esr";
+      },
+      {
+        Forced = No;
+        Name = gdigi.Gdigi;
+        BuggyApplication = No;
+        DropCommand = "gdigi %d";
+        AutoLaunch = No;
+        Lock = No;
+        Position = "0,3";
+        PasteCommand = "gdigi %s";
+        Command = gdigi;
+      },
+      {
+        Forced = No;
+        Name = gpartedbin.Gpartedbin;
+        BuggyApplication = No;
+        DropCommand = "gpartedbin %d";
+        AutoLaunch = No;
+        Lock = No;
+        Position = "0,4";
+        PasteCommand = "gpartedbin %s";
+        Command = gpartedbin;
+      }
+    );
+  };
+  Clip = {
+    Forced = No;
+    Name = Logo.WMClip;
+    BuggyApplication = No;
+    DropCommand = "wmsetbg -u -t %d";
+    AutoLaunch = No;
+    Lock = No;
+    Position = "11,39";
+    Command = "-";
+  };
+  Drawers = ();
+  Workspaces = (
+    {
+      Clip = {
+        AutoRaiseLower = No;
+        Applications = ();
+        AutoCollapse = No;
+        Collapsed = No;
+        AutoAttractIcons = No;
+        Lowered = Yes;
+      };
+      Name = Main;
+    },
+    {
+      Clip = {
+        AutoRaiseLower = No;
+        Applications = ();
+        AutoCollapse = No;
+        Collapsed = No;
+        AutoAttractIcons = No;
+        Lowered = Yes;
+      };
+      Name = "Workspace 2";
+    }
+  );
+}

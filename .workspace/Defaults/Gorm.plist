@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>NSDefaultOpenDirectory</key>
+    <string>/home/wjk/Code/shoebill/gui/Shoebill/Base.lproj</string>
+    <key>NSWindow Frame Inspector</key>
+    <string>994 18 274 459 0 0  1440 900 </string>
+    <key>NSWindow Frame Palettes</key>
+    <string>994 551 274 298 0 0  1440 900 </string>
+    <key>ShowInspectors</key>
+    <string>YES</string>
+    <key>ShowPalettes</key>
+    <string>YES</string>
+</dict>
+</plist>
