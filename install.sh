@@ -9,3 +9,6 @@ echo "tmux config..."
 cp -aR .tmux* ~/
 echo "inputrc..."
 cp -aR .inputrc ~/
+echo ".xinitrc..."
+cp .xinitrc ~/
+echo ; echo "Done. Logout/login"
