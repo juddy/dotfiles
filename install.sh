@@ -11,4 +11,9 @@ echo "inputrc..."
 cp -aR .inputrc ~/
 echo ".xinitrc..."
 cp .xinitrc ~/
+
+echo "Xdefaults..."
+cp .Xdefaults ~/
+
 echo ; echo "Done. Logout/login"
+
