@@ -3,16 +3,22 @@
 
 echo "bashrc..."
 cp -aR .bashrc ~/
+
 echo "vim resources..."
 cp -aR .vim* ~/
+
 echo "tmux config..."
 cp -aR .tmux* ~/
+
 echo "inputrc..."
 cp -aR .inputrc ~/
+
 echo ".xinitrc..."
 cp .xinitrc ~/
 
-echo "Xdefaults..."
+echo ".xmonad"
+cp -aR .xmonad ~/
+
 cp .Xdefaults ~/
 
 echo ; echo "Done. Logout/login"
