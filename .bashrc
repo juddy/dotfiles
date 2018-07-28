@@ -5,3 +5,5 @@ export PATH=$PATH:/usr/sbin/
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib
 
 setterm -blength 2 -bfreq 100
+
+set -o vi
