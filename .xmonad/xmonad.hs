@@ -4,8 +4,10 @@
    --
 
    import XMonad
+   import XMonad.Hooks.EwmhDesktops
 
-   main = xmonad $ def
+
+   main = xmonad $ ewmh def
        { borderWidth        = 1
        , terminal           = "st"
        , normalBorderColor  = "#123456"
