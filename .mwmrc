@@ -145,7 +145,7 @@ Buttons PointerButtonBindings
 !!
 
 ! debian menu
-!include-menu-defs
+include-menu-defs
 # Automatically generated file. Do not edit (see /usr/share/doc/menu/html/index.html)
 
 Menu "/Debian/Applications/Accessibility"
