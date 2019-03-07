@@ -1,1 +1,1 @@
-pkg install git bash hs-xmonad hs-xmonad-contrib tmux
+pkg install git bash hs-xmonad hs-xmonad-contrib tmux xdesktopwaves wmclock
