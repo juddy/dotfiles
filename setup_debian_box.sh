@@ -19,7 +19,7 @@ sudo apt-get install apt-transport-https cryptsetup git
 
 #Install packages
 	sudo apt-get update
-	sudo apt-get -y install spotify virtualbox qemu claws-mail xmonad wmaker scrot xdesktopwaves st atlassian-plugin-sdk spotify-client vagrant 
+	sudo apt-get -y install spotify virtualbox qemu claws-mail xmonad wmclock wmaker scrot xdesktopwaves st atlassian-plugin-sdk spotify-client vagrant 
 
 #get dotfiles
 	cd ~
