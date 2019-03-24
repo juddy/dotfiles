@@ -29,9 +29,9 @@ Mwm*wmbatt*clientDecoration: border
 Mwm*xclock*clientDecoration: border
 Mwm*XConsole.clientDecoration:	+resizeh
 Mwm*XTerm*clientFunctions:	all
-XTerm*Background:		#104369
+XTerm*Background:		#000000
 XTerm*cursorColor:      Red
-XTerm*Foreground:		#CCFAE9
+XTerm*Foreground:		#c4c4c4
 XTerm*fullCursor:       true
 XTerm*saveLines:		8500
 XTerm*scrollBar:		true
